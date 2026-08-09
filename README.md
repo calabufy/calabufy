@@ -1,6 +1,6 @@
 <div align="center">
 
-# Антон Щукин Александрович
+# Антон Александрович Щукин
 
 ### Junior Data Scientist / Machine Learning Engineer
 
