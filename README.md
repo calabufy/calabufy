@@ -20,8 +20,8 @@
 
 ## Технологии
 
-**Языки:** `Python`,`SQL`  
-**Анализ данных:** `pandas`,`NumPy`,`EDA`, `статистический анализ`, `A/B-тесты`, `визуализация`  
+**Языки:** `Python`, `SQL`  
+**Анализ данных:** `pandas`, `NumPy`, `EDA`, `статистический анализ`, `A/B-тесты`, `визуализация`  
 **Машинное обучение:** `scikit-learn`, `CatBoost`, `Random Forest`, `SVM`, `Logistic Regression`, `AdaBoost`  
 **Глубокое обучение:** `PyTorch`, `TensorFlow/Keras`, `CNN`, `RNN`, `LSTM`, `GRU`, `Autoencoder`, `U-Net`, `ConvLSTM`  
 **Временные ряды:** `ARIMA`, `seasonal decomposition`, `anomaly detection`, `forecasting`  
