@@ -25,7 +25,7 @@
 **Машинное обучение:** `scikit-learn`, `CatBoost`, `Random Forest`, `SVM`, `Logistic Regression`, `AdaBoost`  
 **Глубокое обучение:** `PyTorch`, `TensorFlow/Keras`, `CNN`, `RNN`, `LSTM`, `GRU`, `Autoencoder`, `U-Net`, `ConvLSTM`  
 **Временные ряды:** `ARIMA`, `seasonal decomposition`, `anomaly detection`, `forecasting`  
-**Метрики:** `MAE`, `MSE`, `RMSE`, `R²`, `Precision`, `Recall`, `F1`, `ROC-AUC`, `Dice`, `WoE` 
+**Метрики:** `MAE`, `MSE`, `RMSE`, `R²`, `Precision`, `Recall`, `F1`, `ROC-AUC`, `Dice`, `WoE`   
 **Инструменты:** `Git`, `Jupyter Notebook`, `matplotlib`, `Docker`, `MLflow`, `PostgreSQL`, `pytest`
 
 ## Проектный опыт
